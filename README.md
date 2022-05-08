@@ -3,11 +3,12 @@ Repo que eu criei para ideias de escrever artigos no meu blog (sugestões são b
 
 - Tutoriais intermid-avançado de JS
 - #QuickTips
-- Arquitetura de network para games utilizando websockets
 - Programação funcional em vez de imperativa SEMPRE
 - Técnicas e patterns para gamedev
+- Jogos online e arquitetura UDP e TCP
 - Engenharia e arquitetura que usei no valle
 - Tutoriais Phaser de patterns e abstrações
+  - arquitetura de um jogo em phaser PROFISSIONAL e da VIDA REAL 
   - prefabs
   - escalonar preload
   - composição x herança (OOP)
@@ -15,10 +16,15 @@ Repo que eu criei para ideias de escrever artigos no meu blog (sugestões são b
   - Usando JSON como CSS
   - lazy loading
 - Vários tipos de jojinhos no Phaser
-  - Megaman X (scriptable)
-  - top down RPG (scriptable)
-  - Jogos online e arquitetura UDP e TCP
-  - 2d side scroller (scriptable)
-  - 
+  - 2d side scroller
+  - roguelike
+  - top down RPG por turno e action 
+  - point and click
+  - visual novel
+  - Megaman X 
+  - candy crush
+  - farm ville multiplayer
+  - clash of clans multiplayer
+  - clash royale multiplayer
 - Minha ideia de game engine
 - O que pretendo comercializar
