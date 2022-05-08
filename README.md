@@ -14,7 +14,7 @@ Repo que eu criei para ideias de escrever artigos no meu blog (sugestões são b
   - composição x herança (OOP)
   - Utlizando 3D com Phaser
   - Usando JSON como CSS
-  - lazy loading
+  - lazy loading (scenes e resources como sprites, audios, tilemaps e etc)
 - Vários tipos de jojinhos no Phaser
   - 2d side scroller
   - roguelike
