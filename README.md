@@ -21,6 +21,7 @@ Repo que eu criei para ideias de escrever artigos no meu blog (sugestões são b
   - top down RPG por turno e action 
   - point and click
   - visual novel
+  - tower defender
   - Megaman X 
   - candy crush
   - farm ville multiplayer
